@@ -21,7 +21,7 @@ Renomeie o arquivo painel.php para outro nome de sua escolha (ex: adminXYZ.php).
 
 Isso evita que pessoas mal-intencionadas descubram o caminho do painel e façam alterações indevidas no seu cardápio.
 
-📋 Funcionalidades do Painel (seudominio.com/seuPainel.php)
+📋 Funcionalidades do Painel (seudominio.com/painel.php)
 Adicionar, editar ou remover itens do cardápio
 
 Organizar os produtos por categorias
